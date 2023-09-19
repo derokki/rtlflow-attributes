@@ -1,6 +1,7 @@
 // [RTLflow Attributes by Derokki] RTL Arabic Date
 // Attribute: "rf-arabic-date" = "date"
-// Set on CMS Item date element. Code runs only if HTML Lang is set to Arabic. Format should be like this: Sep 19, 2023
+// Set on CMS Item date element. Code runs only if HTML Lang is set to Arabic. 
+// Format should be like this: Sep 19, 2023
 
 document.addEventListener("DOMContentLoaded", function() {
   // Check if the HTML lang attribute is set to Arabic
