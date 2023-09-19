@@ -1,6 +1,6 @@
 // RTL Mirror Movex
-// Attribute: "rf-reverse-movex" = "rtl-element"
-// Attribute: "rf-reverse-movex" = "ltr-element"
+// Attribute (reverse on RTL): "rf-reverse-movex" = "rtl-element"
+// Attribute (reverse on LTR): "rf-reverse-movex" = "ltr-element"
 // set on element where you want to reverse Transform Move X
 
 document.addEventListener('DOMContentLoaded', () => {
