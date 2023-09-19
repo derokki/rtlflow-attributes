@@ -1,3 +1,7 @@
+// RTL Webflow Slider
+// Attribute: "rf-reverse-wslider" = "slider"
+// set on Main Slider Component. This Code reverses the Slider Mask. Develop Slider in an RTL-friendly way.
+
 document.addEventListener("DOMContentLoaded", function() {
   // Check if the HTML tag has a "dir" attribute set to "rtl"
   const dirAttribute = document.documentElement.getAttribute('dir');
