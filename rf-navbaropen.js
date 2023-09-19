@@ -1,7 +1,7 @@
-// RTL Navmenu Open Reverse
+// [RTLflow Attributes by Derokki] RTLflow Navbar Open
 // Attribute (reverse on RTL): "rf-reverse-navbarmenu" = "rtl-navbar"
 // Attribute (reverse on LTR): "rf-reverse-navbarmenu" = "ltr-navbar"
-// set on main Navbar element
+// Set on main Navbar element
 
 document.addEventListener("DOMContentLoaded", function() {
 
