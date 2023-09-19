@@ -1,4 +1,4 @@
-// RTL Mirror Movex
+// [RTLflow Attributes by Derokki] RTLflow Move X
 // Attribute (reverse on RTL): "rf-reverse-movex" = "rtl-element"
 // Attribute (reverse on LTR): "rf-reverse-movex" = "ltr-element"
 // set on element where you want to reverse Transform Move X
