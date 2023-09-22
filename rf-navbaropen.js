@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
 	if (dirAttribute === 'rtl') {
 
 		// Get all elements that either have the attribute Attribute: "rf-reverse-navbarmenu" = "navbar"
-		const elements = document.querySelectorAll('[rf-reverse-navbarmenu="ltr-navbar"]');
+		const elements = document.querySelectorAll('[rf-reverse-navbarmenu="rtl-navbar"]');
 
 		// Loop through each element and update attributes
 		elements.forEach(element => {
@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function() {
   else if (dirAttribute === 'ltr') {
 
 		// Get all elements that either have the attribute Attribute: "rf-reverse-navbarmenu" = "navbar"
-		const elements = document.querySelectorAll('[rf-reverse-navbarmenu="rtl-navbar"]');
+		const elements = document.querySelectorAll('[rf-reverse-navbarmenu="ltr-navbar"]');
 
 		// Loop through each element and update attributes
 		elements.forEach(element => {
