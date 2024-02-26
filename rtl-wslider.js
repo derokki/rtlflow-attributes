@@ -1,4 +1,4 @@
-// [RTLflow Attributes by Derokki] RTL Webflow Slider
+// [RTLflow 2.0 Attributes by Derokki] RTL Webflow Slider
 // Attribute: "rf-reverse-wslider" = "slider"
 // Set on Main Slider Component. This Code reverses the Slider Mask direction. Make sure to develop Slider in an RTL-friendly way.
 
